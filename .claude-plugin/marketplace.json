@@ -1,0 +1,15 @@
+{
+  "name": "zavus",
+  "description": "Zavus plugins for Claude Code: humanize finished writing with a separate rewriting model.",
+  "owner": {
+    "name": "Zavus",
+    "url": "https://zavus.ai"
+  },
+  "plugins": [
+    {
+      "name": "zavus",
+      "source": "./",
+      "description": "The Zavus humanize MCP server and a skill for when to use it."
+    }
+  ]
+}

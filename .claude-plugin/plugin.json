@@ -1,0 +1,19 @@
+{
+  "name": "zavus",
+  "version": "0.1.0",
+  "description": "Zavus for Claude Code: the humanize MCP server plus a skill that tells Claude when to run finished writing through it, so emails, posts and docs sound human.",
+  "author": {
+    "name": "Zavus",
+    "url": "https://zavus.ai"
+  },
+  "homepage": "https://zavus.ai/setup/claude-code/",
+  "license": "MIT",
+  "keywords": [
+    "humanizer",
+    "writing",
+    "mcp",
+    "editing"
+  ],
+  "privacyPolicyUrl": "https://zavus.ai/privacy/",
+  "icon": ".claude-plugin/icon.png"
+}

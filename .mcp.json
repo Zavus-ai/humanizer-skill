@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zavus": {
+      "type": "http",
+      "url": "https://api.zavus.ai/mcp"
+    }
+  }
+}
